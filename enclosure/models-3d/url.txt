@@ -1,0 +1,5 @@
+References:
+1) Raspberry Pi Zero W
+2) GPS NEO6MV2
+3) GSM SIM800LV2
+4) LCD 0.96" SPI
